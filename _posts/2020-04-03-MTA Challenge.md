@@ -7,24 +7,27 @@ This project addresses the question posed by the Women Yes Women Tech organizati
 
 New York's Metropolitan Transportation Authority (MTA) provides public transportation to millions of people every year and this network records turnstile data from its stations to track usage over the past couple of years.
 
-Data: MTA Turnstile data <a href=http://web.mta.info/developers/turnstile.html)</a>
+Data: [MTA Turnstile data]({{http://web.mta.info/developers/turnstile.html}}) 
 
 Strategy:
 In order to capture a timeframe that is most representative of when outreach by street teams should be done, the data sets analyzed were between March 30 and April 19, 2019, giving ample time for recruting attendees before an early summer (~June) event, 
 
-Methodology: In this exploratory data analysis project, we used the Python Data Analysis Library, <em>Pandas<em>, to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
+Methodology: In this exploratory data analysis project, we used the Python Data Analysis Library, *Pandas*, to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
 
 Code can be reviewed here: 
 
 Initial analysis: 
 
 Top twenty stations were sorted based off cumulative entries into the subway station during this time period
-top20bar.png
+
+![Top 20 Stations]({{sodas32.github.io}}/images/top20bar.png)
 
 Stations that were excluded due to high tourist traffic, stations in residential areas, etc. 
-greyedouttop20.png
+
+![Excluded stations]({{sodas32.github.io}}/images/greyedouttop20.png)
 
 Technology company offices are concentrated in Fidi, Soho, and Midtown. Combining this information, the recommended stations to place street teams are: 
-techtop20.png
+
+![Recommended Stations]({{sodas32.github.io}}/images/techtop20.png)
 
 
