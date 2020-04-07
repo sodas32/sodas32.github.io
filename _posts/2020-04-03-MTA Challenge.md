@@ -3,7 +3,7 @@ layout: post
 title: Women Yes Women Tech
 ---
 
-<h1>Women Yes Women Tech: Gals for the Gala</h1>
+<h1>Women Yes Women Tech</h1>
 
 <h2>Proposal</h2>
 This project addresses the question posed by the Women Yes Women Tech organization: To generate interest and awareness for an annual gala, which NYC subway stations should street teams be located at to collect email addresses for potential attendees? The event will be in early summer and people who sign up for the gala will receive free tickets.  
