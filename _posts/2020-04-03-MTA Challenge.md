@@ -14,7 +14,7 @@ Data: <a href="http://web.mta.info/developers/turnstile.html">MTA Turnstile data
 In order to capture a timeframe that is most representative of when outreach by street teams should be done this year, the data sets analyzed were between March 30 and April 19, 2019, giving ample time for recruiting attendees before an early summer (~June) event.  
 
 <h3>Methodology</h3>
-In this exploratory data analysis project, we used the Python Data Analysis Library, *Pandas*, to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
+In this exploratory data analysis project, Python Data Analysis Library, *Pandas*, was used to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
 
 <h2>Initial Analyses</h2>
 
