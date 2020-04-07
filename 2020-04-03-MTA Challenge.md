@@ -29,6 +29,8 @@ Stations that were excluded due to high tourist traffic, stations in residential
 
 Technology company offices are concentrated in Fidi, Soho, and Midtown. Combining this information, the recommended stations to place street teams are: 
 
+[Tech areas]({{sodas32.github.io}}/images/Picture1.png}})
+
 ![Recommended Stations]({{sodas32.github.io}}/images/techtop20.png}})
 
 <strong>Stations to place street teams:</strong>
