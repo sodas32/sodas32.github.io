@@ -17,6 +17,8 @@ In order to capture a timeframe that is most representative of when outreach by 
 <h3>Methodology</h3>
 In this exploratory data analysis project, we used the Python Data Analysis Library, *Pandas*, to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
 
+Access code [here]({{student_submissions/Projects/Project_1/Dasgupta,Thanedar,Skootsky/Project 1 FINAL.ipynb}})
+
 <h2>Initial Analyses</h2>
 
 Top twenty stations were sorted based off cumulative entries into the subway station during this time period
@@ -27,9 +29,11 @@ Stations that were excluded due to high tourist traffic, stations in residential
 
 ![Excluded stations]({{sodas32.github.io}}/images/greyedouttop20.png}})
 
-Technology company offices are concentrated in Fidi, Soho, and Midtown. Combining this information, the recommended stations to place street teams are: 
+Technology company offices are concentrated in Fidi, Soho, and Midtown. 
 
 [Tech areas]({{sodas32.github.io}}/images/Picture1.png}})
+
+Combining this information, the recommended stations to place street teams are: 
 
 ![Recommended Stations]({{sodas32.github.io}}/images/techtop20.png}})
 
