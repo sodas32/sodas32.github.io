@@ -19,12 +19,15 @@ Code can be reviewed here:
 Initial analysis: 
 
 Top twenty stations were sorted based off cumulative entries into the subway station during this time period
-top20bar.png
+
+![Top 20 Stations]({{sodas32.github.io}}/images/top20bar.png)
 
 Stations that were excluded due to high tourist traffic, stations in residential areas, etc. 
-greyedouttop20.png
+
+![Excluded stations]({{sodas32.github.io}}/images/greyedouttop20.png)
 
 Technology company offices are concentrated in Fidi, Soho, and Midtown. Combining this information, the recommended stations to place street teams are: 
-techtop20.png
+
+![Recommended Stations]({{sodas32.github.io}}/images/techtop20.png)
 
 
