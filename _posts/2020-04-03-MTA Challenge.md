@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Women Yes Women Tech: Gals for the Gala
+title: Women Yes Women Tech
 ---
 
 <h1>Women Yes Women Tech: Gals for the Gala</h1>
@@ -10,7 +10,7 @@ This project addresses the question posed by the Women Yes Women Tech organizati
 
 New York's Metropolitan Transportation Authority (MTA) provides public transportation to millions of people every year and this network records turnstile data from its stations to track usage over the past couple of years.
 
-Data: [MTA Turnstile data]({{http://web.mta.info/developers/turnstile.html}}) 
+Data: <a href="http://web.mta.info/developers/turnstile.html">MTA Turnstile data</a>
 
 <h2>Strategy</h2>
 In order to capture a timeframe that is most representative of when outreach by street teams should be done this year, the data sets analyzed were between March 30 and April 19, 2019, giving ample time for recruiting attendees before an early summer (~June) event.  
