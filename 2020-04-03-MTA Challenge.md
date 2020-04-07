@@ -7,12 +7,12 @@ This project addresses the question posed by the Women Yes Women Tech organizati
 
 New York's Metropolitan Transportation Authority (MTA) provides public transportation to millions of people every year and this network records turnstile data from its stations to track usage over the past couple of years.
 
-Data: MTA Turnstile data <a href=http://web.mta.info/developers/turnstile.html)</a>
+Data: [MTA Turnstile data]({{http://web.mta.info/developers/turnstile.html}}) 
 
 Strategy:
 In order to capture a timeframe that is most representative of when outreach by street teams should be done, the data sets analyzed were between March 30 and April 19, 2019, giving ample time for recruting attendees before an early summer (~June) event, 
 
-Methodology: In this exploratory data analysis project, we used the Python Data Analysis Library, <em>Pandas<em>, to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
+Methodology: In this exploratory data analysis project, we used the Python Data Analysis Library, *Pandas*, to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib.  
 
 Code can be reviewed here: 
 
