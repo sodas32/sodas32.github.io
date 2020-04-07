@@ -3,8 +3,6 @@ layout: post
 title: Women Yes Women Tech
 ---
 
-<h1>Women Yes Women Tech</h1>
-
 <h2>Proposal</h2>
 This project addresses the question posed by the Women Yes Women Tech organization: To generate interest and awareness for an annual gala, which NYC subway stations should street teams be located at to collect email addresses for potential attendees? The event will be in early summer and people who sign up for the gala will receive free tickets.  
 
@@ -22,19 +20,19 @@ In this exploratory data analysis project, we used the Python Data Analysis Libr
 
 Top twenty stations were sorted based off cumulative entries into the subway station during this time period
 
-![Top 20 Stations]({{sodas32.github.io}}/images/top20bar.png}})
+![Top 20 Stations]({{sodas32.github.io/images/top20bar.png}})
 
 Stations that were excluded due to high tourist traffic, stations in residential areas, etc. 
 
-![Excluded stations]({{sodas32.github.io}}/images/greyedouttop20.png}})
+![Excluded stations]({{sodas32.github.io/images/greyedouttop20.png}})
 
 Technology company offices are concentrated in Fidi, Soho, and Midtown. 
 
-[Tech areas]({{sodas32.github.io}}/images/Picture1.png}})
+[Tech areas]({{sodas32.github.io/images/Picture1.png}})
 
 Combining this information, the recommended stations to place street teams are: 
 
-![Recommended Stations]({{sodas32.github.io}}/images/techtop20.png}})
+![Recommended Stations]({{sodas32.github.io/images/techtop20.png}})
 
 <strong>Stations to place street teams:</strong>
 <ol>
