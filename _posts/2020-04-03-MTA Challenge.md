@@ -16,6 +16,8 @@ In order to capture a timeframe that is most representative of when outreach by 
 <h3>Methodology</h3>
 In this exploratory data analysis project, Python Data Analysis Library, *Pandas*, was used to clean and sort through the MTA turnstile data. Visualizations were then done using Matplotlib. 
 
+Review code  <a href="https://github.com/sodas32/Metis-Project-1/blob/master/Project%201-EDA%20.ipynb">here</a>
+
 <h2>Initial Analyses</h2>
 
 Top twenty stations were sorted based off cumulative entries into the subway station during this time period
