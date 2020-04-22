@@ -6,7 +6,7 @@ title:               S.Dasgupta
 tagline:             Big Data Energy  
 url:                 http://sodas32.github.io
 paginate:            2
-baseurl:             ""
+baseurl:             https://github.com/sodas32
 
 # Assets
 #
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Sonali Dasgupta
-  url:               
+  url:               https://github.com/sodas32
   email:             sgdas32@gmail.com
 
 # Custom vars
