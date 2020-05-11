@@ -17,7 +17,7 @@ An important part of DR diagnosis is evaluation of fundus images, or pictures of
 The objective for this project was to develop a machine learning model to classify a patient as having or not having DR based of features from the fundus image. This would automated the diagnosis process and make the evalation less prone to subjectivity based off the thresholds set. 
 
 <h2>Methodology</h2>
-The data for this project was acquired from the UCI Machine Learning Repository <a href="http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set"</a>
+The data for this project was acquired from the <a href="http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set">UCI Machine Learning Repository</a>
 
 PostgreSQL on AWS was used to store data for the project. Code for database creation can be found <a href="https://github.com/sodas32/Metis-Project-3/blob/master/Project3_PostgreSQL.ipynb">here</a>
 
