@@ -37,6 +37,6 @@ Feature importance graphs showed the relative impact of each feature in the mode
 ![Feature Importance]({{sodas32.github.io}}/images/Feat_imp.png)
 
 <h2>Conclusions</h2>
-Presence of {% highlight text %} microaneurysms {% highlight text %} and {% highlight text %} exudates {% highlight text %} were predictive of diabetic retinopathy and the model was able to categorize a majority of the samples correctly. It is important to note that models like this can improve greatly with larger data sets and adjusting thresholds for categorization can also impact accuracy. In the future, incorporating other measurements such as BMI, blood glucose, or factors like gender and age, could help create an even more comprehensive and predictive model. 
+Presence of microaneurysms and exudates were predictive of diabetic retinopathy and the model was able to categorize a majority of the samples correctly. It is important to note that models like this can improve greatly with larger data sets and adjusting thresholds for categorization can also impact accuracy. In the future, incorporating other measurements such as BMI, blood glucose, or factors like gender and age, could help create an even more comprehensive and predictive model. 
 
 Review presentation slides <a href="https://github.com/sodas32/Metis-Project-3/blob/master/Project_3_Presentation.pdf">here</a>
