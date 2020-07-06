@@ -22,7 +22,7 @@ The data for this project was acquired from the <a href="http://archive.ics.uci.
 PostgreSQL on AWS was used to store data for the project. Code for database creation can be found <a href="https://github.com/sodas32/Metis-Project-3/blob/master/Project3_PostgreSQL.ipynb">here</a>
 
 <h2>Initial Analyses</h2>
-Numerous classification models were assessed for this dataset, with the target variable being "Class": <strong>1<strong> if the patient has DR, <strong>0<strong> if the patient does not. 
+Numerous classification models were assessed for this dataset, with the target variable being "Class": 1 if the patient has DR, 0 if the patient does not. 
 Code for data cleaning and exploratory analyses can be found <a href="https://github.com/sodas32/Metis-Project-3/blob/master/Project3_EDA%26Classification.ipynb">here</a>
 
 <h2>Results</h2>
